@@ -1,0 +1,51 @@
+index,Name,County,LocalAuthority,AgglomerationPE,TreatmentType,LicenceStatusType,CIStatus
+0,Portlaoise,Laois,"Uisce Éireann",31290,"3NP - Tertiary N&P Removal",Licensed,Open
+1,"Upper Liffey Valley Sewerage Scheme",Kildare,"Uisce Éireann",96408,"3P - Tertiary P Removal",Licensed,Open
+2,Athy,Kildare,"Uisce Éireann",13034,"3P - Tertiary P Removal",Licensed,NULL
+3,"Lower Liffey Valley Regional Sewerage Scheme",Kildare,"Uisce Éireann",141534,"3NP - Tertiary N&P Removal",Licensed,Closed
+4,Bray,Wicklow,"Uisce Éireann",0,"2 - Secondary Treatment",Replaced,Closed
+5,"Arklow and Environs",Wicklow,"Uisce Éireann",19297,"0 - No Treatment",Licensed,NULL
+6,Athlone,Westmeath,"Uisce Éireann",22834,"3P - Tertiary P Removal",Licensed,Open
+7,Mullingar,Westmeath,"Uisce Éireann",27537,"3NP - Tertiary N&P Removal",Licensed,NULL
+8,Letterkenny,Donegal,"Uisce Éireann",24410,"3P - Tertiary P Removal",Licensed,Open
+9,Greystones,Wicklow,"Uisce Éireann",26712,"2 - Secondary Treatment",Licensed,Closed
+10,Killybegs,Donegal,"Uisce Éireann",2140,"2 - Secondary Treatment",Licensed,Open
+11,Wicklow,Wicklow,"Uisce Éireann",19617,"2 - Secondary Treatment",Licensed,NULL
+12,Limerick,Limerick,"Uisce Éireann",122317,"3N - Tertiary N Removal",Licensed,Open
+13,Sligo,Sligo,"Uisce Éireann",27780,"3P - Tertiary P Removal",Licensed,Open
+14,Tramore,Waterford,"Uisce Éireann",16018,"2 - Secondary Treatment",Licensed,Open
+15,Ballina,Mayo,"Uisce Éireann",14527,"3P - Tertiary P Removal",Licensed,Closed
+16,Dungarvan,Waterford,"Uisce Éireann",14012,"2 - Secondary Treatment",Licensed,Open
+17,"Kilkenny City and Environs",Kilkenny,"Uisce Éireann",36281,"3P - Tertiary P Removal",Licensed,NULL
+18,Castletroy,Limerick,"Uisce Éireann",39844,"3P - Tertiary P Removal",Licensed,Open
+19,Cavan,Cavan,"Uisce Éireann",18210,"3P - Tertiary P Removal",Licensed,Open
+20,Malahide,Dublin,"Uisce Éireann",20996,"2 - Secondary Treatment",Licensed,Open
+21,"Waterford city",Waterford,"Uisce Éireann",107229,"2 - Secondary Treatment",Licensed,Open
+22,Balbriggan,Dublin,"Uisce Éireann",44129,"2 - Secondary Treatment",Licensed,Open
+23,Swords,Dublin,"Uisce Éireann",60712,"3NP - Tertiary N&P Removal",Licensed,Open
+24,Roscrea,Tipperary,"Uisce Éireann",8080,"3P - Tertiary P Removal",Licensed,Open
+25,Thurles,Tipperary,"Uisce Éireann",11065,"3P - Tertiary P Removal",Licensed,Open
+26,Nenagh,Tipperary,"Uisce Éireann",11848,"3P - Tertiary P Removal",Licensed,Open
+27,Carlow,Carlow,"Uisce Éireann",32482,"3NP - Tertiary N&P Removal",Licensed,NULL
+28,Enniscorthy,Wexford,"Uisce Éireann",14669,"3P - Tertiary P Removal",Licensed,Open
+29,"Wexford town",Wexford,"Uisce Éireann",31883,"3NP - Tertiary N&P Removal",Licensed,NULL
+30,Tuam,Galway,"Uisce Éireann",11633,"3P - Tertiary P Removal",Licensed,Closed
+31,"Ballinasloe Town and Environs",Galway,"Uisce Éireann",9040,"3P - Tertiary P Removal",Licensed,Open
+32,"Cork City",Cork,"Uisce Éireann",296425,"3P - Tertiary P Removal",Licensed,Open
+33,Ringsend,Dublin,"Uisce Éireann",2362572,"2 - Secondary Treatment",Licensed,NULL
+34,Clonmel,Tipperary,"Uisce Éireann",28898,"3P - Tertiary P Removal",Licensed,NULL
+35,"New Ross",Wexford,"Uisce Éireann",10557,"3N - Tertiary N Removal",Licensed,Closed
+36,Killarney,Kerry,"Uisce Éireann",22369,"3NP - Tertiary N&P Removal",Licensed,Open
+37,Shanganagh-Bray,Dublin,"Uisce Éireann",138672,"2 - Secondary Treatment",Licensed,Open
+38,Tullamore,Offaly,"Uisce Éireann",23168,"3P - Tertiary P Removal",Licensed,Closed
+39,Tralee,Kerry,"Uisce Éireann",33427,"3NP - Tertiary N&P Removal",Licensed,Open
+40,Drogheda,Louth,"Uisce Éireann",86817,"3NP - Tertiary N&P Removal",Licensed,Open
+41,"Monksland Wastewater Treatment Works",Roscommon,"Uisce Éireann",12368,"3P - Tertiary P Removal",Licensed,Closed
+42,Blarney,Cork,"Uisce Éireann",8162,"3NP - Tertiary N&P Removal",Licensed,NULL
+43,"Carrigtwohill and Environs",Cork,"Uisce Éireann",9480,"3NP - Tertiary N&P Removal",Licensed,Closed
+44,"Shannon Town",Clare,"Uisce Éireann",15560,"2 - Secondary Treatment",Licensed,Closed
+45,Courtown-Gorey,Wexford,"Uisce Éireann",22593,"2 - Secondary Treatment",Licensed,Open
+46,Castlebar,Mayo,"Uisce Éireann",18810,"3NP - Tertiary N&P Removal",Licensed,Closed
+47,"Ennis North",Clare,"Uisce Éireann",24659,"3P - Tertiary P Removal",Licensed,Closed
+48,Ballincollig,Cork,"Uisce Éireann",23836,"3NP - Tertiary N&P Removal",Licensed,Closed
+49,Galway,Galway,"Uisce Éireann",105693,"2 - Secondary Treatment",Licensed,Open
